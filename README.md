@@ -38,8 +38,8 @@ Beyond building, I'm deeply interested in **Network Auditing** and ethical hacki
 ---
 
 ### 📊 GitHub Stats
-![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-007&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-007&layout=compact&theme=radical)
 
 ---
 
