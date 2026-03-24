@@ -1,39 +1,39 @@
 # Hi there, I'm Andres Ansorge 👋
 
-### 🚀 Software Technician & Engineering Student
-I'm a developer based in **El Salvador**, currently balancing academic engineering cycles with hands-on technical work. I specialize in building full-stack applications, integrating AI into everyday tools, and tinkering with hardware.
+### 🚀 Future Software Engineer | Full-Stack Aspirant
+I am a Software Technician and Engineering student at **UFG**, currently in the first half of my degree. My work sits at the intersection of **AI-driven Web Development** and **IoT Hardware Hacking**.
 
 ---
 
-### 🛠 My Tech Stack
-
-**Languages & Core**
-* **Languages:** Python, JavaScript, Java, HTML5, CSS3/Tailwind
-* **Backend:** Flask, Node.js, MongoDB
-* **Hardware:** ESP32 (WROOM), Arduino
-
-**AI & Automation**
-* **Models:** Gemini API, Vertex AI integration
-* **Specialty:** Developing AI-powered note-taking apps and automated inventory systems.
-
-**Environment (The Daily Driver)**
-* **OS:** Arch Linux/Windows
-* **Window Manager:** Hyprland (Wayland)
-* **Tools:** Cursor, Antigravity, VS Code, Git, Shell Scripting, Android Studio, Arduino IDE, NetBeans
+### 🧪 Featured Project: WebDevAI
+*An intelligent development assistant designed to bridge the gap between prompting and previewing.*
+* **Live Code Preview:** Generates and renders web pages in real-time.
+* **Code Analysis:** Reads, refactors, and explains complex HTML/CSS structures.
+* **AI Integration:** Powered by the Gemini API for high-context coding assistance.
 
 ---
 
-### 📂 Featured Projects
+### 🛠 Tech Stack & Interests
 
-* **[App_apuntes]** – A "Notion-style" AI-integrated note-taking application with PDF reading capabilities.
-* **[Web Dev AI]** – Integrating streaming AI responses into sleek, responsive web interfaces.
-* **[Desktop Resource Monitor]** – A hardware-based monitor using an ESP32 to track PC performance in real-time.
-* **[Inventory Pro]** – A Python-based desktop suite for stock management and automated billing.
+**The Frontend & Logic**
+* **Languages:** JavaScript, Python, HTML5, CSS3/Tailwind
+* **Focus:** Currently mastering **UI/UX Design** to round out my Full-Stack capabilities.
+
+**IoT & Hardware Hacking**
+* **Microcontrollers:** ESP32 (WROOM), Arduino.
+* **Interest:** Exploring the security side of IoT—analyzing how connected devices communicate and identifying vulnerabilities.
+
+**The Environment**
+* **OS:** Arch Linux (Hyprland WM) and Windows 
+* **Philosophy:** Minimalist, keyboard-driven development for maximum efficiency.
 
 ---
 
-### 🛡 Cybersecurity & Exploration
-Beyond building, I'm deeply interested in **Network Auditing** and ethical hacking. I enjoy exploring the legal and technical boundaries of computer security, specifically within the Salvadoran legal framework.
+### 📈 Academic & Career Roadmap
+
+* **2026:** Expanding Full-Stack expertise at **UFG** and refining AI-streaming architectures.
+* **Goal:** Bridging the gap between hardware (IoT) and modern Web UI.
+* **Vision:** Developing secure, AI-integrated systems that solve regional challenges.
 
 ---
 
@@ -44,8 +44,8 @@ Beyond building, I'm deeply interested in **Network Auditing** and ethical hacki
 ---
 
 ### 🤝 Let's Connect
-* **LinkedIn:** [Your Name/Profile]
-* **Portfolio:** [Link to your site]
-* **Languages:** Spanish (Native), English (Beginning)
+* **Location:** San Salvador, El Salvador 🇸🇻
+* **Education:** Software Engineering @ UFG
+* **Collaboration:** Open to discussing **IoT Security**, **AI Automation**.
 
-*"Turning coffee into code and logic into solutions."*
+*"Building secure bridges between hardware, AI, and the web."*
