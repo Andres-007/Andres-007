@@ -8,18 +8,18 @@ I'm a developer based in **El Salvador**, currently balancing academic engineeri
 ### 🛠 My Tech Stack
 
 **Languages & Core**
-* **Languages:** Python, JavaScript (ES6+), Java, HTML5, CSS3/Tailwind
+* **Languages:** Python, JavaScript, Java, HTML5, CSS3/Tailwind
 * **Backend:** Flask, Node.js, MongoDB
-* **Hardware:** ESP32 (WROOM), Arduino, C++
+* **Hardware:** ESP32 (WROOM), Arduino
 
 **AI & Automation**
 * **Models:** Gemini API, Vertex AI integration
 * **Specialty:** Developing AI-powered note-taking apps and automated inventory systems.
 
 **Environment (The Daily Driver)**
-* **OS:** Arch Linux (BTW)
+* **OS:** Arch Linux/Windows
 * **Window Manager:** Hyprland (Wayland)
-* **Tools:** Neovim/VS Code, Git, Shell Scripting
+* **Tools:** Cursor, Antigravity, VS Code, Git, Shell Scripting, Android Studio, Arduino IDE, NetBeans
 
 ---
 
@@ -46,6 +46,6 @@ Beyond building, I'm deeply interested in **Network Auditing** and ethical hacki
 ### 🤝 Let's Connect
 * **LinkedIn:** [Your Name/Profile]
 * **Portfolio:** [Link to your site]
-* **Languages:** Spanish (Native), English (Technical Proficiency)
+* **Languages:** Spanish (Native), English (Beginning)
 
 *"Turning coffee into code and logic into solutions."*
