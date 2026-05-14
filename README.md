@@ -15,6 +15,9 @@ I am a Software Technician and Engineering student at **UFG**, currently in the 
 
 ### Tech Stack & Interests
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,debian,linux,bash,html,css,js,java,docker,github&perline=8" />
+  </a>
 **The Frontend & Logic**
 * **Languages:** JavaScript, Python, HTML5, CSS3/Tailwind
 * **Focus:** Currently mastering **UI/UX Design** to round out my Full-Stack capabilities.
