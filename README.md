@@ -43,7 +43,7 @@ I am a Software Technician and Engineering student at **UFG**, currently in the 
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 * **Location:** San Salvador, El Salvador 🇸🇻
 * **Education:** Software Engineering @ UFG
 * **Collaboration:** Open to discussing **IoT Security**, **AI Automation**.
