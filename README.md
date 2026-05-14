@@ -16,7 +16,7 @@ I am a Software Technician and Engineering student at **UFG**, currently in the 
 ### Tech Stack & Interests
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,js,python,html5,html,css3,css,java,arduino,androidstudio,blender,ps,ia,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=arch,py,html5,html,css3,css,java,js,kotlin,nodejs,azure,react,arduino,androidstudio,blender,ps,angular,bootstrap,fastapi,flask,ai,mongodb,mysql,vscode,vscodium,postgres,github&perline=8" />
   </a>
 **The Frontend & Logic**
 * **Languages:** JavaScript, Python, HTML5, CSS3/Tailwind
