@@ -1,11 +1,11 @@
-# Hi there, I'm Andres Ansorge 👋
+# Hi there, I'm Andres Ansorge
 
-### 🚀 Future Software Engineer | Full-Stack Aspirant
+###  Future Software Engineer | Full-Stack Aspirant
 I am a Software Technician and Engineering student at **UFG**, currently in the first half of my degree. My work sits at the intersection of **AI-driven Web Development** and **IoT Hardware Hacking**.
 
 ---
 
-### 🧪 Featured Project: WebDevAI
+###  Featured Project: WebDevAI
 *An intelligent development assistant designed to bridge the gap between prompting and previewing.*
 * **Live Code Preview:** Generates and renders web pages in real-time.
 * **Code Analysis:** Reads, refactors, and explains complex HTML/CSS structures.
@@ -13,7 +13,15 @@ I am a Software Technician and Engineering student at **UFG**, currently in the 
 
 ---
 
-### 🛠 Tech Stack & Interests
+### </> Languages and Tools
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,debian,linux,bash,html,css,js,java,docker,github&perline=8" />
+  </a>
+
+---
+
+###  Tech Stack & Interests
 
 **The Frontend & Logic**
 * **Languages:** JavaScript, Python, HTML5, CSS3/Tailwind
@@ -29,7 +37,7 @@ I am a Software Technician and Engineering student at **UFG**, currently in the 
 
 ---
 
-### 📈 Academic & Career Roadmap
+###  Academic & Career Roadmap
 
 * **2026:** Expanding Full-Stack expertise at **UFG** and refining AI-streaming architectures.
 * **Goal:** Bridging the gap between hardware (IoT) and modern Web UI.
@@ -37,14 +45,14 @@ I am a Software Technician and Engineering student at **UFG**, currently in the 
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 ![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-007&show_icons=true&theme=radical&custom_title=Andres%20Ansorge%20GitHub%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-007&layout=compact&theme=radical)
 
 ---
 
-### 🤝 Let's Connect
-* **Location:** San Salvador, El Salvador 🇸🇻
+###  Let's Connect
+* **Location:** San Salvador, El Salvador
 * **Education:** Software Engineering @ UFG
 * **Collaboration:** Open to discussing **IoT Security**, **AI Automation**.
 
