@@ -1,54 +1,100 @@
-# Hi there, I'm Andres Ansorge
+<div align="center">
 
-### Future Software Engineer | Full-Stack Aspirant
-I am a Software Technician and Engineering student at **UFG**, currently in the first half of my degree. My work sits at the intersection of **AI-driven Web Development** and **IoT Hardware Hacking**.
+# Andres Ansorge
 
----
+### Estudiante de Ingeniería de Software · Enfoque Back-End
 
-### Featured Project: WebDevAI
-*An intelligent development assistant designed to bridge the gap between prompting and previewing.*
-* **Live Code Preview:** Generates and renders web pages in real-time.
-* **Code Analysis:** Reads, refactors, and explains complex HTML/CSS structures.
-* **AI Integration:** Powered by the Gemini API for high-context coding assistance.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andres-007)
 
----
-
-### Tech Stack & Interests
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,py,html5,html,css3,css,java,js,kotlin,nodejs,azure,react,arduino,androidstudio,blender,ps,angular,bootstrap,fastapi,flask,ai,mongodb,mysql,vscode,vscodium,postgres,github&perline=8" />
-  </a>
-**The Frontend & Logic**
-* **Languages:** JavaScript, Python, HTML5, CSS3/Tailwind
-* **Focus:** Currently mastering **UI/UX Design** to round out my Full-Stack capabilities.
-
-**IoT & Hardware Hacking**
-* **Microcontrollers:** ESP32 (WROOM), Arduino.
-* **Interest:** Exploring the security side of IoT—analyzing how connected devices communicate and identifying vulnerabilities.
-
-**The Environment**
-* **OS:** Arch Linux (Hyprland WM) and Windows 
-* **Philosophy:** Minimalist, keyboard-driven development for maximum efficiency.
+</div>
 
 ---
 
-### Academic & Career Roadmap
+## 👋 Sobre mí
 
-* **2026:** Expanding Full-Stack expertise at **UFG** and refining AI-streaming architectures.
-* **Goal:** Bridging the gap between hardware (IoT) and modern Web UI.
-* **Vision:** Developing secure, AI-integrated systems that solve regional challenges.
+Estudiante de Ingeniería de Software en la **UFG**, cursando la primera mitad de la carrera. Me enfoco en **desarrollo back-end**, con interés creciente en **IoT** y **ciberseguridad** — áreas que estoy empezando a explorar, no en las que tengo experiencia profunda todavía.
 
----
-
-### GitHub Stats
-![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-007&show_icons=true&theme=radical&custom_title=Andres%20Ansorge%20GitHub%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-007&layout=compact&theme=radical)
+- 🎓 Ingeniería de Software @ **UFG**
+- 💻 Desarrollo orientado a back-end
+- 🔌 Explorando microcontroladores (ESP32, Arduino) y seguridad en dispositivos conectados
+- 📍 San Salvador, El Salvador 🇸🇻
 
 ---
 
-### Let's Connect
-* **Location:** San Salvador, El Salvador 🇸🇻
-* **Education:** Software Engineering @ UFG
-* **Collaboration:** Open to discussing **IoT Security**, **AI Automation**.
+## 🚀 Proyecto destacado: WebDevAI
 
-*"Building secure bridges between hardware, AI, and the web."*
+Asistente de desarrollo que conecta el prompting con la previsualización de código en tiempo real.
+
+- **Preview en vivo:** genera y renderiza páginas web en tiempo real
+- **Análisis de código:** lee, refactoriza y explica estructuras HTML/CSS
+- **Integración con IA:** usa la API de Gemini para asistencia de codificación
+
+---
+
+## 🛠️ Stack & Skills
+
+<div align="center">
+
+**Back-End**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+**Bases de datos**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Front-End (básico)**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**IoT & Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+**Herramientas & Entorno**
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Andres-007&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-007&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Roadmap
+
+- **Ahora:** consolidando fundamentos de back-end y bases de datos en la UFG
+- **Explorando:** IoT con ESP32/Arduino y nociones básicas de seguridad en dispositivos conectados
+- **Meta a mediano plazo:** ganar experiencia práctica en proyectos reales y profundizar en arquitecturas de IA aplicadas a desarrollo web
+
+---
+
+<div align="center">
+
+💬 Abierto a conversar sobre **back-end**, **IoT** y **ciberseguridad** — todavía aprendiendo, con muchas ganas.
+
+</div>
