@@ -4,8 +4,8 @@
 
 ### Software Engineer
 
-[![ES](https://img.shields.io/badge/lang-Espa%C3%B1ol-D97757?style=for-the-badge)](./README.md)
-[![EN](https://img.shields.io/badge/lang-English-8E75B2?style=for-the-badge)](./README.en.md)
+[![ES](https://img.shields.io/badge/lang-Espa%C3%B1ol-D97757?style=for-the-badge)](./README.es.md)
+[![EN](https://img.shields.io/badge/lang-English-8E75B2?style=for-the-badge)](./README.md)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
