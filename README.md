@@ -2,7 +2,10 @@
 
 # Andres Ansorge
 
-### Estudiante de Ingeniería de Software · Enfoque Back-End
+### Software Engineer
+
+[![ES](https://img.shields.io/badge/lang-Espa%C3%B1ol-D97757?style=for-the-badge)](./README.md)
+[![EN](https://img.shields.io/badge/lang-English-8E75B2?style=for-the-badge)](./README.en.md)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
@@ -12,24 +15,24 @@
 
 ---
 
-## Sobre mí
+## About me
 
-Estudiante de Ingeniería de Software en la **UFG**, cursando la primera mitad de la carrera. Me enfoco en **desarrollo back-end**, con interés creciente en **IoT** y **ciberseguridad** — áreas que estoy empezando a explorar, no en las que tengo experiencia profunda todavía.
+Software Engineering student at **UFG**, currently in the first half of the degree. I focus on **back-end development**, with growing interest in **IoT** and **cybersecurity** — areas I'm just starting to explore, not ones I have deep experience in yet.
 
-- Ingeniería de Software @ **UFG**
-- Desarrollo orientado a back-end
-- Explorando microcontroladores (ESP32, Arduino) y seguridad en dispositivos conectados
+- Software Engineering @ **UFG**
+- Back-end focused development
+- Exploring microcontrollers (ESP32, Arduino) and security in connected devices
 - San Salvador, El Salvador
 
 ---
 
-## Proyecto destacado: WebDevAI
+## Featured project: WebDevAI
 
-Asistente de desarrollo que conecta el prompting con la previsualización de código en tiempo real.
+Development assistant that bridges prompting and real-time code preview.
 
-- **Preview en vivo:** genera y renderiza páginas web en tiempo real
-- **Análisis de código:** lee, refactoriza y explica estructuras HTML/CSS
-- **Integración con IA:** usa la API de Gemini para asistencia de codificación
+- **Live preview:** generates and renders web pages in real time
+- **Code analysis:** reads, refactors, and explains HTML/CSS structures
+- **AI integration:** uses the Gemini API for coding assistance
 
 ---
 
@@ -37,15 +40,15 @@ Asistente de desarrollo que conecta el prompting con la previsualización de có
 
 <div align="center">
 
-| Categoría | Tecnologías |
+| Category | Technologies |
 |:---|:---|
 | **Back-End** | <img src="https://skillicons.dev/icons?i=py,nodejs,fastapi,flask,java" height="40"/> |
-| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40"/> |
 | **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40"/> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" height="40"/> |
 | **IoT & Hardware** | <img src="https://skillicons.dev/icons?i=arduino" height="40"/> |
-| **Entorno & Herramientas** | <img src="https://skillicons.dev/icons?i=arch,vscode,github" height="40"/> <img src="https://devicons.io/devicons/icons/cursor-icon.svg" height="40" title="Cursor"/>|
-| **IA** | <img src="https://devicons.io/devicons/icons/claude-code.svg" height="40" title="Claude Code"/> <img src="https://devicons.io/devicons/icons/claude-icon.svg" height="40" title="Claude"> |
+| **Environment & Tools** | <img src="https://skillicons.dev/icons?i=arch,vscode,github" height="40"/> <img src="https://devicons.io/devicons/icons/cursor-icon.svg" height="40" title="Cursor"/> |
+| **AI** | <img src="https://devicons.io/devicons/icons/claude-code.svg" height="40" title="Claude Code"/> <img src="https://devicons.io/devicons/icons/claude-icon.svg" height="40" title="Claude"/> |
 
 </div>
 
@@ -64,14 +67,14 @@ Asistente de desarrollo que conecta el prompting con la previsualización de có
 
 ## Roadmap
 
-- **Ahora:** consolidando fundamentos de back-end y bases de datos en la UFG
-- **Explorando:** IoT con ESP32/Arduino y nociones básicas de seguridad en dispositivos conectados
-- **Meta a mediano plazo:** ganar experiencia práctica en proyectos reales y profundizar en arquitecturas de IA aplicadas a desarrollo web
+- **Now:** building solid back-end and database fundamentals at UFG
+- **Exploring:** IoT with ESP32/Arduino and the basics of security in connected devices
+- **Mid-term goal:** gain hands-on experience with real projects and dive deeper into AI architectures applied to web development
 
 ---
 
 <div align="center">
 
-Abierto a conversar sobre **back-end**, **IoT** y **ciberseguridad** — todavía aprendiendo, con muchas ganas.
+Open to talk about **back-end**, **IoT**, and **cybersecurity** — still learning, with a lot of enthusiasm.
 
 </div>
