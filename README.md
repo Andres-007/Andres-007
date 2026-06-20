@@ -37,44 +37,13 @@ Asistente de desarrollo que conecta el prompting con la previsualización de có
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,fastapi,flask,java,mysql,postgres,mongodb,html,css,js,react,arduino,arch,vscode,github&perline=8" />
-</a>
-
-<br><br>
-
-**Back-End**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-
-**Bases de datos**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Front-End (básico)**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**IoT & Hardware**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-**Herramientas & Entorno**
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+| | |
+|---|---|
+| **Back-End** | <img src="https://skillicons.dev/icons?i=py,nodejs,fastapi,flask,java" height="40"/> |
+| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40"/> |
+| **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40"/> |
+| **IoT & Hardware** | <img src="https://skillicons.dev/icons?i=arduino" height="40"/> |
+| **Entorno & Herramientas** | <img src="https://skillicons.dev/icons?i=arch,vscode,github" height="40"/> |
 
 </div>
 
