@@ -45,7 +45,7 @@ Asistente de desarrollo que conecta el prompting con la previsualización de có
 | **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" height="40"/> |
 | **IoT & Hardware** | <img src="https://skillicons.dev/icons?i=arduino" height="40"/> |
 | **Entorno & Herramientas** | <img src="https://skillicons.dev/icons?i=arch,vscode,github" height="40"/> <img src="https://devicons.io/devicons/icons/cursor-icon.svg" height="40" title="Cursor"/>|
-| **IA** | <img src="https://devicons.io/devicons/icons/claude-code.svg" height="40" title="Claude Code"/> <img src="https://devicons.io/devicons/icons/claude-icon.svg"> |
+| **IA** | <img src="https://devicons.io/devicons/icons/claude-code.svg" height="40" title="Claude Code"/> <img src="https://devicons.io/devicons/icons/claude-icon.svg" height="40" title="Claude"> |
 
 </div>
 
