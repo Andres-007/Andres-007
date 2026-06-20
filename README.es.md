@@ -2,7 +2,7 @@
 
 # Andres Ansorge
 
-### Software Engineer
+### Ingeniero de Software
 
 [![ES](https://img.shields.io/badge/lang-Espa%C3%B1ol-D97757?style=for-the-badge)](./README.md)
 [![EN](https://img.shields.io/badge/lang-English-8E75B2?style=for-the-badge)](./README.en.md)
