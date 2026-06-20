@@ -12,18 +12,18 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Estudiante de Ingeniería de Software en la **UFG**, cursando la primera mitad de la carrera. Me enfoco en **desarrollo back-end**, con interés creciente en **IoT** y **ciberseguridad** — áreas que estoy empezando a explorar, no en las que tengo experiencia profunda todavía.
 
-- 🎓 Ingeniería de Software @ **UFG**
-- 💻 Desarrollo orientado a back-end
-- 🔌 Explorando microcontroladores (ESP32, Arduino) y seguridad en dispositivos conectados
-- 📍 San Salvador, El Salvador 🇸🇻
+- Ingeniería de Software @ **UFG**
+- Desarrollo orientado a back-end
+- Explorando microcontroladores (ESP32, Arduino) y seguridad en dispositivos conectados
+- San Salvador, El Salvador
 
 ---
 
-## 🚀 Proyecto destacado: WebDevAI
+## Proyecto destacado: WebDevAI
 
 Asistente de desarrollo que conecta el prompting con la previsualización de código en tiempo real.
 
@@ -33,23 +33,25 @@ Asistente de desarrollo que conecta el prompting con la previsualización de có
 
 ---
 
-## 🛠️ Stack & Skills
+## Stack & Skills
 
 <div align="center">
 
-| | |
-|---|---|
+| Categoría | Tecnologías |
+|:---|:---|
 | **Back-End** | <img src="https://skillicons.dev/icons?i=py,nodejs,fastapi,flask,java" height="40"/> |
 | **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40"/> |
 | **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40"/> |
-| **IoT & Hardware** | <img src="https://skillicons.dev/icons?i=arduino" height="40"/> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" height="40"/> |
+| **IoT & Hardware** | <img src="https://skillicons.dev/icons?i=arduino" height="40"/> &nbsp; ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
 | **Entorno & Herramientas** | <img src="https://skillicons.dev/icons?i=arch,vscode,github" height="40"/> |
+| **IA & Asistentes de código** | <img src="https://devicons.io/devicons/icons/claude-icon.svg" height="40" title="Claude"/> <img src="https://devicons.io/devicons/icons/claude-code.svg" height="40" title="Claude Code"/> <img src="https://devicons.io/devicons/icons/google-gemini.svg" height="40" title="Gemini"/> <img src="https://devicons.io/devicons/icons/cursor-icon.svg" height="40" title="Cursor"/> <img src="https://devicons.io/devicons/icons/openai-icon.svg" height="40" title="ChatGPT"/> ![Antigravity](https://img.shields.io/badge/Antigravity-1A1A1A?style=flat-square&logo=google&logoColor=white) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -60,7 +62,7 @@ Asistente de desarrollo que conecta el prompting con la previsualización de có
 
 ---
 
-## 🎯 Roadmap
+## Roadmap
 
 - **Ahora:** consolidando fundamentos de back-end y bases de datos en la UFG
 - **Explorando:** IoT con ESP32/Arduino y nociones básicas de seguridad en dispositivos conectados
@@ -70,6 +72,6 @@ Asistente de desarrollo que conecta el prompting con la previsualización de có
 
 <div align="center">
 
-💬 Abierto a conversar sobre **back-end**, **IoT** y **ciberseguridad** — todavía aprendiendo, con muchas ganas.
+Abierto a conversar sobre **back-end**, **IoT** y **ciberseguridad** — todavía aprendiendo, con muchas ganas.
 
 </div>
