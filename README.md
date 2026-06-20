@@ -43,9 +43,9 @@ Asistente de desarrollo que conecta el prompting con la previsualización de có
 | **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40"/> |
 | **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40"/> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" height="40"/> |
-| **IoT & Hardware** | <img src="https://skillicons.dev/icons?i=arduino" height="40"/> &nbsp; ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
+| **IoT & Hardware** | <img src="https://skillicons.dev/icons?i=arduino" height="40"/> |
 | **Entorno & Herramientas** | <img src="https://skillicons.dev/icons?i=arch,vscode,github" height="40"/> |
-| **IA & Asistentes de código** | <img src="https://devicons.io/devicons/icons/claude-icon.svg" height="40" title="Claude"/> <img src="https://devicons.io/devicons/icons/claude-code.svg" height="40" title="Claude Code"/> <img src="https://devicons.io/devicons/icons/google-gemini.svg" height="40" title="Gemini"/> <img src="https://devicons.io/devicons/icons/cursor-icon.svg" height="40" title="Cursor"/> <img src="https://devicons.io/devicons/icons/openai-icon.svg" height="40" title="ChatGPT"/> ![Antigravity](https://img.shields.io/badge/Antigravity-1A1A1A?style=flat-square&logo=google&logoColor=white) |
+| **IA & Asistentes de código** | <img src="https://devicons.io/devicons/icons/claude-code.svg" height="40" title="Claude Code"/> <img src="https://devicons.io/devicons/icons/google-gemini.svg" height="40" title="Gemini"/> <img src="https://devicons.io/devicons/icons/cursor-icon.svg" height="40" title="Cursor"/> <img src="https://devicons.io/devicons/icons/openai-icon.svg" height="40" title="ChatGPT"/> |
 
 </div>
 
