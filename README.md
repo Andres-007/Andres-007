@@ -37,6 +37,12 @@ Asistente de desarrollo que conecta el prompting con la previsualización de có
 
 <div align="center">
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,nodejs,fastapi,flask,java,mysql,postgres,mongodb,html,css,js,react,arduino,arch,vscode,github&perline=8" />
+</a>
+
+<br><br>
+
 **Back-End**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
